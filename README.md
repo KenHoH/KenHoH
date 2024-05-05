@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KenHoH
-- 👀 I’m interested in Cyber Security and Web Dev
+- 👀 I’m interested in Cyber Security, Game Dev and Web Dev
 - 🌱 I’m currently learning CSS, JS, HTML and C++
 
 <!---
