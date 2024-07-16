@@ -15,6 +15,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KenHoH&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" width="56%" height="350">  
 </p>
 <br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KenHoH&theme=radical&no-frame=false&no-bg=false&margin-w=4)
