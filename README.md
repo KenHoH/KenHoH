@@ -1,16 +1,22 @@
-### 📚 Studying Computer Science<br>
-### 🤝 Interested in Software Development, Game Dev and Machine learning<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KenHoH&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Hi there, I'm Swets 
+👋 I am a full stack developer, tech enthusiast, and researcher student. I'm interested in developing, contributing and building projects for the communities <sup>(🔥 open source projects)</sup> <br>
+- 🌟 Love working on random projects in free time
+- ❤️‍🔥 Love gaming and binge watching anime
+- 💻 Tech enthusiastic  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,neovim,docker,kubernetes,prisma,discord,ts,go,git,python,java,linux,supabase,gcp,react,vite,nestjs,postgres,redis," />
+  </a>
+</p>
 # 📊 GitHub Stats:
+
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=KenHoH&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KenHoH&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
 <p align="center">
   <img src="https://raw.githubusercontent.com/KenHoH/KenHoH/main/yukino.png" width="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenHoH&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="56%" height="350">  
+  <img src="https://github-readme-stats-fast.vercel.app/api/?username=KenHoH&show_icons=true&theme=tokyonight" width="56%" height="350">  
 </p>
 <br>
+
+
