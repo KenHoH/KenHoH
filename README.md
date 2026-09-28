@@ -9,14 +9,18 @@
     <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,prisma,discord,ts,go,git,python,supabase,gcp,react,nestjs,postgres,redis," />
   </a>
 </p>
-# 📊 GitHub Stats:
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=KenHoH&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KenHoH&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
+# 📊 GitHub Stats:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KenHoH/KenHoH/main/yukino.png" width="200">
-  <img src="https://github-readme-stats-fast.vercel.app/api/?username=KenHoH&show_icons=true&theme=tokyonight" width="56%" height="350">  
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=KenHoH&show_icons=true&theme=tokyonight">
+  <br>
+  <br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KenHoH&show_icons=true&theme=tokyonight">
 </p>
 <br>
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/KenHoH/KenHoH/main/yukino.png" width="200">
+  <img src="https://github-readme-stats-fast.vercel.app/api/?username=KenHoH&show_icons=true&theme=tokyonight" width="56%" height="350">
+</div>
+<br>
 
