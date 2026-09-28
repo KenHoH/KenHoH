@@ -19,8 +19,8 @@
 </p>
 <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats-fast.vercel.app/api/?username=KenHoH&show_icons=true&theme=tokyonight" width="60%" height="350">
   <img src="https://raw.githubusercontent.com/KenHoH/KenHoH/main/yukino.png" width="200">
-  <img src="https://github-readme-stats-fast.vercel.app/api/?username=KenHoH&show_icons=true&theme=tokyonight" width="56%" height="350">
 </div>
 <br>
 
