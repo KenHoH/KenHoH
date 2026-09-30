@@ -2,7 +2,7 @@
 👋 I am a full stack developer, tech enthusiast, and researcher student. I'm interested in developing, contributing and building projects for the communities <sup>(🔥 open source projects)</sup> <br>
 - 🌟 Love working on random projects in free time
 - ❤️‍🔥 Love gaming and binge watching anime
-- 💻 Tech enthusiastic  
+- 💻 Tech enthusiast
 
 <p align="center">
   <a href="https://skillicons.dev">
